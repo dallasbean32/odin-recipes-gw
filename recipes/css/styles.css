@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header {
+    font-size: 5rem;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+p {
+    font-size: 1.5rem;
+
+}
+
+.recipe_body {
+    align-items: center;
+    text-align: center;
+}
+
+#lasagna-image {
+    width: 33vw;
+    height: 33vh;
+    max-width: 500px;
+    max-height: 300px;
+}
