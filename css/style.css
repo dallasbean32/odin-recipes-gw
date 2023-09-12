@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+html {
+
+}
+
+body {
+
+}
+
+.page-wrap {
+    background-color: red;
+    display: flex;
+}
+
+.column-left {
+
+}
+
+.column-center {
+
+}
+
+.column-right {
+
+}
+
+header {
+    text-align: center;
+}
+
+blockquote {
+    font-style: italic;
+}
