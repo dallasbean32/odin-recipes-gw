@@ -40,6 +40,10 @@ img {
     height: 700px;
 }
 
+figcaption {
+    padding-bottom: .5rem;
+}
+
 body {
     background-image: url(../img/restaurant_background.jpg);
     background-repeat: no-repeat;
